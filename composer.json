@@ -1,9 +1,10 @@
 {
-    "name": "netsells/code-standards-laravel",
-    "description": "Netsells package providing pre-configured quality tools for our Laravel projects.",
+    "name": "hedgehog-lab/code-standards-laravel",
+    "description": "Hedgehog Lab package providing pre-configured quality tools for our Laravel projects.",
     "type": "library",
     "license": "proprietary",
     "keywords": [
+        "hedgehog-lab",
         "netsells",
         "laravel",
         "quality tools"
@@ -16,6 +17,10 @@
         {
             "name": "Sam Jordan",
             "email": "sam.jordan@netsells.co.uk"
+        },
+        {
+            "name": "Will Feaver",
+            "email": "william.feaver@hedgehoglab.com"
         }
     ],
     "require": {
@@ -26,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Netsells\\CodeStandards\\Laravel\\Core\\": "core/src/"
+            "HedgehogLab\\CodeStandards\\Laravel\\Core\\": "core/src/"
         }
     }
 }
