@@ -1,5 +1,5 @@
 includes:
-    - ./vendor/netsells/code-standards-laravel/phpstan/extension.neon
+    - ./vendor/hedgehog-lab/code-standards-laravel/phpstan/extension.neon
 
 parameters:
     paths:

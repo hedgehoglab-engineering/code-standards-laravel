@@ -1,6 +1,6 @@
 <?php
 
-namespace Netsells\CodeStandards\Laravel\Core;
+namespace HedgehogLab\CodeStandards\Laravel\Core;
 
 use Composer\Script\Event as ScriptEvent;
 use Composer\Installer\PackageEvent;
